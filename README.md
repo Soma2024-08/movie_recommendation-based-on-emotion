@@ -13,3 +13,5 @@ This project provides movie recommendations based on user-defined emotions. It s
    ```bash
    git clone https://github.com/yourusername/movie-recommendation.git
    cd movie-recommendation
+2. install the requires package using below code:
+   !pip install -r requirements.txt
