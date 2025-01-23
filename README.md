@@ -1,2 +1,15 @@
-# movie_recommendation-based-on-emotion
-Emotion-driven movie recommendation system: Matches viewer's mood with films that validate, transform, or complement their emotional state using AI-powered personalized suggestions.
+# Movie Recommendation Based on Emotion
+
+This project provides movie recommendations based on user-defined emotions. It scrapes movie titles from IMDb based on the genre associated with the emotion.
+
+## Features
+
+- Fetches movie titles from IMDb based on selected emotions.
+- Supports various genres: Drama, Action, Comedy, Horror, Crime.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/movie-recommendation.git
+   cd movie-recommendation
